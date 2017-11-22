@@ -9,5 +9,4 @@ import app.com.mvpgwc.bean.ShopBean;
 public interface MainViewListener {
     public void success(ShopBean bean);//成功的接口
     public void failure(Exception e);//失败的接口
-
 }
